@@ -9,7 +9,7 @@ import (
 
 	dsig "github.com/russellhaering/goxmldsig"
 
-	"github.com/crewjam/saml"
+	"github.com/nthsky/saml2"
 )
 
 // Options represents the parameters for creating a new middleware

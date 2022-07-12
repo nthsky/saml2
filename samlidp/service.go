@@ -4,12 +4,11 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
+	"github.com/nthsky/saml2"
 	"net/http"
 	"os"
 
 	"github.com/zenazn/goji/web"
-
-	"github.com/crewjam/saml"
 )
 
 // Service represents a configured SP for whom this IDP provides authentication services.

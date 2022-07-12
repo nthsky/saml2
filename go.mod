@@ -2,12 +2,9 @@ module github.com/nthsky/saml2
 
 go 1.18
 
-replace github.com/crewjam/saml => ./
-
 require (
 	github.com/beevik/etree v1.1.0
 	github.com/crewjam/httperr v0.2.0
-	github.com/crewjam/saml v0.4.8
 	github.com/golang-jwt/jwt/v4 v4.4.2
 	github.com/google/go-cmp v0.5.8
 	github.com/mattermost/xml-roundtrip-validator v0.1.0

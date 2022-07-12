@@ -8,7 +8,7 @@ import (
 	"gotest.tools/assert"
 	is "gotest.tools/assert/cmp"
 
-	"github.com/crewjam/saml"
+	"github.com/nthsky/saml2"
 )
 
 func TestCookieSameSite(t *testing.T) {
