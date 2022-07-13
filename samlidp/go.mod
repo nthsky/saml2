@@ -9,7 +9,7 @@ require (
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
 	github.com/nthsky/saml2 v0.4.13
 	github.com/zenazn/goji v1.0.1
-	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
+	golang.org/x/crypto v0.0.0-20220128200615-198e4374d7ed
 	gotest.tools v2.2.0+incompatible
 )
 
